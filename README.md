@@ -9,6 +9,8 @@ Hello there! I'm a programmer deeply passionate about the world of data. AWS-cer
 - **Tools**: Navigating spaces with AWS, GCP, Git, Docker, AirByte, Jenkins, and DBT
 - **Databases**: Versed with Snowflake, BigQuery, Neptune, Postgres, and MySQL
 
+and of course VIM user... 👀
+
 ## 📜 Certificates
 
 - **AWS Solutions Architect - Associate**
