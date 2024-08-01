@@ -4,7 +4,7 @@ Hello there! I'm a programmer deeply passionate about the world of data. AWS-cer
 
 ## 🚀 Skills and Tools
 
-- **Languages**: Python, SQL, bash, and venturing into the realms of Rust
+- **Languages**: Python, SQL, bash
 - **Frameworks/Libraries**: Familiarity with a spectrum including Airflow, Polars, Pandas, Numpy, and more
 - **Tools**: Navigating spaces with AWS, GCP, Git, Docker, AirByte, Jenkins, and DBT
 - **Databases**: Versed with Snowflake, BigQuery, Neptune, Postgres, and MySQL
